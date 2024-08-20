@@ -1,4 +1,4 @@
-
+# Cake Corner
 
 cake corner is a frontend-only web project designed to showcase a bakery's offerings and services. The project is built using **HTML**, **CSS**, and **Bootstrap**.
 
